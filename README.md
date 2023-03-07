@@ -1,7 +1,7 @@
 # ConBased Method
 
 #### Introduction
-ConBased is a Python package for extraction and analysis of clumpy structure in molecular clouds. 
+The article [ConBased](https://www.sciencedirect.com/science/article/abs/pii/S2213133722000427). ConBased is a Python package for extraction and analysis of clumpy structure in molecular clouds. 
 
 We sincerely welcome community contributions to its optimization. If you find an issue with the code, or would like to request additional features, please raise an issue in the repository or send me an email. Email: yujiang@pmo.ac.cn
 
